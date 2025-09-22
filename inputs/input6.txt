@@ -1,0 +1,14 @@
+13,20
+####################
+SPPPPPPPPPP#PPPPP#PE
+#PP###PP#####PPPP#P#
+#P#####P###PPP##PPP#
+#P#####P###P######P#
+#PPPPPPPPPPPPPPPPPP#
+#####P#####P#P###P##
+#PPPPP#####P###PPPP#
+#P#########P########
+#PPPPPPPPPPP###PPPP#
+#############P###### 
+#PPPPPPPPPPPPPPPPPP#
+####################

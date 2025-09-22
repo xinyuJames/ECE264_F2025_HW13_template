@@ -1,0 +1,11 @@
+10,10
+##########
+SPPPPPPPP#
+#P#P###PP#
+#PP#PP#PP#
+#P###PPPP#
+#P#PPPPP##
+#P##P##P##
+#P##P#####
+#PPPPPPPPE
+##########
