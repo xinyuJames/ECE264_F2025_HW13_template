@@ -18,7 +18,7 @@ SP################################################
 #PPPPPPPPPPPPPPPPPPP###PPPPPPPPPPPPPPPPPPP###P####
 #########P#####P###########################PPPP###
 #PPPPPPPPP#####PPPPPPPPPPPPPPP#####PPPPPPPPP##PPP#
-#P#########P###################P#############PPPPE
+#P#########P###################P###########PPP##PE
 #P#####PPPPP#####PPPPPPPPP#####P#####PPPPPPP#P####
 #P#####P###################P###############PPP####
 #PPPPP#PPPPPPPPPPPPP###PPPPPPPPPPPPPPPPP###P#P####
