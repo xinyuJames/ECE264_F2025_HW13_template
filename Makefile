@@ -1,7 +1,7 @@
 # Compiler settings
 WARNING = -Wall -Wshadow --pedantic
 ERROR = -Wvla -Werror
-GCC = gcc -std=c99 -g $(WARNING) $(ERROR)
+GCC = gcc -std=c11 -g $(WARNING) $(ERROR)
 
 # Source and object files
 SRCS = main.c hw13.c
