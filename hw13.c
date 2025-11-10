@@ -9,7 +9,6 @@ node* construct_node(coordinate c); // step=0; (x,y)=(0,0); next=NULL
 
 coordinate get_start(char** maze, int num_row)
 {
-    int count = 0;
     coordinate start;
     for (int i = 0; i < num_row; i++)
     {
